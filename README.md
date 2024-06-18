@@ -14,12 +14,5 @@ Welcome to our City Tour Planning Application! This full-stack application simpl
   
 - **Vue.js Frontend:** The frontend is developed with Vue.js, offering a responsive and interactive user interface.
   
-## Installation
 
-To run the City Tour Planning Application locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd city-tour-planning-app
 
